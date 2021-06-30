@@ -1,0 +1,15 @@
+
+obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+obj/Debug/Snake.csproj.CoreCompileInputs.cache
+obj/Debug/Snake.csproj.FileListAbsolute.txt
+obj/Debug/Snake.csprojAssemblyReference.cache
+obj/Debug/Snake.exe
+obj/Debug/Snake.pdb
+bin/Debug/Snake.pdb
+bin/Debug/Snake.exe.config
+bin/Debug/Snake.exe
+App.config
+Properties/AssemblyInfo.cs
+Snake.csproj
+Snake.sln
